@@ -59,4 +59,4 @@ def check_face():
 
 if __name__ == "__main__":
     # Listen on all interfaces and on port 8000.
-    app.run(host="0.0.0.0", port=8000)
+    app.run(host="0.0.0.0", port=5000)
